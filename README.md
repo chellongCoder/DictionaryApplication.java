@@ -1,2 +1,2 @@
 # DictionaryApplication.java
-xây dựng từ điển học từ mới 
+xây dựng từ điển học từ mới tiếng anh 
